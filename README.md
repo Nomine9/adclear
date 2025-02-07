@@ -34,28 +34,6 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-## Deploy on Vercel
-
-<details><summary>Read more</summary>
-
-To deploy on [Vercel](https://vercel.com), use the following command:
-
-```bash
-npx vercel
-```
-
-Make sure to set your `LIVEBLOCKS_SECRET_KEY` in Vercel's environment variables.
-
-</details>
-
-## Develop on CodeSandbox
-
-<details><summary>Read more</summary>
-
-Fork [this example](https://codesandbox.io/s/github/your-repo/canvas-comments) on CodeSandbox and add `LIVEBLOCKS_SECRET_KEY` as a [secret](https://codesandbox.io/docs/secrets).
-
-</details>
-
 ## Features
 - 🖼️ **Draggable & Zoomable Image Canvas**
 - 💬 **Commenting System with User Avatars**
