@@ -11,8 +11,8 @@ This project allows users to place comments on an interactive, draggable image c
 Clone the repository and install dependencies:
 
 ```bash
-git clone {git url}
-cd canvas-comments
+git clone https://github.com/Nomine9/adclear.git
+cd adclear
 npm install
 ```
 
